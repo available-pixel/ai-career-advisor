@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Fadil ADE (FDL Flow)**
+**Fadil Owolara ADELABOU**
 AI Enthusiast | Future Data Scientist | Builder
 
 ---
